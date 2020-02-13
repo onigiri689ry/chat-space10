@@ -1,6 +1,10 @@
 @import 'font-awesome-sprockets';
 @import "font-awesome";
+@import "modules/user";
+@import "reset";
 @import "config/colors";
+@import "modules/flash";
+@import "modules/messages";
 @import "config/font-size";
 @import "config/reset";
 @import "mixins/vendor_prefix";
